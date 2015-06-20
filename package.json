@@ -1,0 +1,19 @@
+{
+  "name": "ep_http_hook",
+  "version": "0.0.1",
+  "description": "Adds webhooks support to Etherpad lite.",
+  "homepage": "https://github.com/delroth/ep_http_hook",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/delroth/ep_http_hook"
+  },
+  "author": {
+    "name": "Pierre Bourdon",
+    "email": "delroth@gmail.com"
+  },
+  "dependencies": {
+    "crypto": "0.0.3",
+    "request": "^2.58.0"
+  }
+}

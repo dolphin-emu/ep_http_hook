@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "hooks": {
+        "padUpdate": "ep_http_hook/main"
+      }
+    }
+  ]
+}
