@@ -3,7 +3,7 @@ var request = require("request");
 var settings = require('ep_etherpad-lite/node/utils/Settings');
 
 // Constants
-var BATCHING_TIME_MS = 2000;
+var BATCHING_TIME_MS = 500;
 
 // Globals (boo).
 var pending_events = [];
