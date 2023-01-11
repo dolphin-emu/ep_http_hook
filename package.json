@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "request": "^2.58.0"
+  },
+  "peerDependencies": {
+    "ep_etherpad-lite": ">=1.8.6"
   }
 }
