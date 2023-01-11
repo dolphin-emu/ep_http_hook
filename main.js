@@ -1,4 +1,4 @@
-var crypto = require("crypto");
+var crypto = require("node:crypto");
 var request = require("request");
 var settings = require('ep_etherpad-lite/node/utils/Settings');
 

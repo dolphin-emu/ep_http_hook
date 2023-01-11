@@ -13,7 +13,6 @@
     "email": "delroth@gmail.com"
   },
   "dependencies": {
-    "crypto": "0.0.3",
     "request": "^2.58.0"
   }
 }
